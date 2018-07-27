@@ -58,6 +58,10 @@ header .navbar {
     background: #777777;
 } */
 
+.navbar-pf .navbar-utility > li > a:hover {
+    background: #eee;
+}
+
 .navbar-pf .navbar-utility > li > a:active {
     background: #ddd;
 }
